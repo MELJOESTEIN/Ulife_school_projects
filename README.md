@@ -1,6 +1,4 @@
 # Here is a list of Exercises
-| -------- |
-
 
 ## Exercise 1
 
