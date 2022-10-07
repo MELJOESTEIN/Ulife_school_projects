@@ -1,7 +1,8 @@
-#Here is a list of Exercises
-+---------------------------+
+# Here is a list of Exercises
+| -------- |
 
-##Exercise 1
+
+## Exercise 1
 
 * Write a function that accepts a string input and returns slices
 
